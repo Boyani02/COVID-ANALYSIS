@@ -1,4 +1,4 @@
-## 📊 COVID-19 Global Data Tracker 
+## COVID-19 Global Data Tracker 
 
 This project involves global data on COVID-19 and aims to gain insights into trends related to cases, deaths, vaccinations, and the influence of socioeconomic characteristics. Python and other library visualizations will be employed to find insights to understand contrasts in the amount of impact the pandemic based on countries and time.
 
@@ -31,14 +31,14 @@ The dataset is obtained from **Our World in Data** and contains:
 
 ### How to Run / View the Project
 
-# Set up the Environment by installing dependencies on Visual Studio Code
+#### Set up the Environment by installing dependencies on Visual Studio Code
 *pip install jupyter pandas numpy matplotlib seaborn plotly
 *Launch the Notebook
 
-# Jupyter notebook
+#### Jupyter notebook
 Open the file named Diseases.ipynb
 
-# PDF export (presentation format)
+#### PDF export (presentation format)
 
 ### The main takeaways
 
