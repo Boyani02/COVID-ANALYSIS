@@ -32,11 +32,11 @@ The dataset is obtained from **Our World in Data** and contains:
 ### How to Run / View the Project
 
 #### Set up the Environment by installing dependencies on Visual Studio Code
-*pip install jupyter pandas numpy matplotlib seaborn plotly
-*Launch the Notebook
+* pip install jupyter pandas numpy matplotlib seaborn plotly
+* Launch the Notebook
 
 #### Jupyter notebook
-Open the file named Diseases.ipynb
+* Open the file named Diseases.ipynb
 
 #### PDF export (presentation format)
 
